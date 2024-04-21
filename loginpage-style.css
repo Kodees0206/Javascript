@@ -1,0 +1,16 @@
+    form {
+        margin-left: 35%;
+        margin-top: 13%;
+        border: 2px solid black;
+        border-radius: 20px;
+        padding: 30px;
+        background-color: bisque;
+        font-size: 25px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+
+    .form button {
+        margin-left: 40%;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+    }
